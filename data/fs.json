@@ -1,0 +1,52 @@
+{
+	"pattrstorage" : 	{
+		"name" : "fs",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"fs.xplayer::beg" : [ 0.0 ],
+					"fs.xplayer::end" : [ 553335.75 ],
+					"fs.xplayer::file" : [ "fish_test_2.wav" ],
+					"fs.xplayer::folder" : [ "C:/Users/s9luc/Desktop/fish_sonification/media/" ],
+					"fs.xplayer::gain" : [ -6.0 ],
+					"fs.xplayer::loop" : [ 1 ],
+					"fs.xplayer::play" : [ 1 ],
+					"fs.xplayer::transp" : [ 0 ],
+					"fs.xplayer::X.player~" : [ -1 ],
+					"fs.select_input" : [  ],
+					"fs.analysis::avg-interval" : [ 1000 ],
+					"fs.analysis::avg-mode" : [ 0 ],
+					"fs.analysis::thresh-high" : [ 1.0 ],
+					"fs.analysis::thresh-low" : [ 0.0 ],
+					"fs.matrix" : [  ],
+					"fs.oscillator[1]::attack" : [ 10.0 ],
+					"fs.oscillator[1]::decay" : [ 10.0 ],
+					"fs.oscillator[1]::env-hold" : [ 0 ],
+					"fs.oscillator[1]::env-hold[1]" : [ 0 ],
+					"fs.oscillator[1]::filter-freq" : [ 1000.0 ],
+					"fs.oscillator[1]::filter-gain" : [ 1.0 ],
+					"fs.oscillator[1]::filter-q" : [ 0.5 ],
+					"fs.oscillator[1]::freq-curve" : [ 1.0 ],
+					"fs.oscillator[1]::freq-in-high" : [ 1.0 ],
+					"fs.oscillator[1]::freq-in-low" : [ 0.0 ],
+					"fs.oscillator[1]::freq-out-high" : [ 400.0 ],
+					"fs.oscillator[1]::freq-out-low" : [ 200.0 ],
+					"fs.oscillator[1]::metro-rate" : [ 0 ],
+					"fs.oscillator[1]::metro-tog" : [ 0 ],
+					"fs.oscillator[1]::osc1-gain" : [ 117 ],
+					"fs.oscillator[1]::osc1-wave" : [ 0 ],
+					"fs.oscillator[1]::release" : [ 1000.0 ],
+					"fs.oscillator[1]::sustain" : [ 0.5 ],
+					"fs.audio_output" : [  ],
+					"fs.shifted_signal::shifter-gain" : [ 121 ],
+					"fs.shifted_signal::shifter-ratio" : [ 77.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
